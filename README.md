@@ -11,7 +11,7 @@ To determine how the launch date correlates with the campaign outcomes, specifca
 ### Analysis of Outcomes Based on Launch Date
 By gathering and filtering the data, we have come to a conclusion based on Launch Date. With high interest on Theater campaigns, the data must be apporiately filtered and sorted to determine the outcomes. The data was pulled into a pivot chart, where the campaigns outcomes "successful","failed", and "canceled" were examined by month (Launch Date). Lastly, the data was filterd by the Parent category "theater". 
 ---
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](C:\Users\fu0651pt\Documents\DATA SCIENCE BOOTCAMP\Module 1 Excel\Homework\Resources/Theater_Outcomes_vs_Launch.png)
 ---
 The sorted and classified data has allowed us to state that Theater campaigns tend to be more successful in the months of May and June, with 111 succcessful theather campaigns in May and 100 successful in June. Addittoanly, theater campaigns are the least successful in Decemeber, with only 37 successful campaings out of a total of 75 campaigns launched. This could be due to extra expesnes during the holiday season. To conclude, if you are seeking a successful Theater campaign, the data suggests to launch your campaign in May or June, and shy away from the month of Decemeber.
 ---
