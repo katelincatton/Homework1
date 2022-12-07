@@ -1,5 +1,4 @@
-# Homework1
-##Campaign Outcomes based on Funding Goals and Launch Dates
+#Campaign Outcomes based on Funding Goals and Launch Dates
 ---
 ### Overview of Project
 The data examines the Campaigning results for all types of campaigns, with hopes to determine trends when analyzing the impact of the campaign funding goals and launch dates. With many campaign types, we we're interested to see how the different campaign types compare against eachother. Additionally we would like to determine if the launch date has a direct impact on the campagin results. The data can be manipulated in many ways; such as the Country, the parent and subcategory's, outcomes, etc; However, we are most interested in the plays and theater campaigns.
